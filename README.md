@@ -1,2 +1,9 @@
 # proyectos-ml-py
-Machien learning proyects
+Machine learning projects in jupyter notebook.
+
+py 3.6.4
+NumPy
+Scipy
+Pandas
+Matplotlib
+
