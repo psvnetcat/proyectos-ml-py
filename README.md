@@ -6,7 +6,16 @@ Requirements:
 - NumPy
 - Scipy
 - Pandas
+- Scikit-learn
+- Seaborn
 - Matplotlib
+
+You can install all of the requirements by:
+
+    $ pip install -r requirements.txt
+Or:
+
+    $ python -m pip install -r requirements.txt
 
 To clone:
 
